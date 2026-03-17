@@ -238,3 +238,16 @@ perpendicular ao raio que liga o centro ao ponto de tangência.
 
     tbh, it's any circle with a center that is equidistant from the circle c and line r...
     
+    easiest example would be this one with center on F, the midpoint between the DE defined on the line perpendicular to r that passes trough C
+
+    ![alt text](imgs/image-35.png)
+
+---
+
+# Question 8
+
+8. Usando o fato de que cordas congruentes de um círculo descrevem ângulos inscritos congruentes, construa um triângulo dadas a altura, a mediana e a bissetriz relativas a um mesmo vértice.
+
+* solution.:
+
+    
