@@ -88,8 +88,17 @@ ao vértice A.
 
 # Question 3
 
-3. Prove que um raio de um círculo  ́e perpendicular a uma corda
-que n ̃ao  ́e um diâmetro se, e somente se, ele a divide em dois
+3. Prove que um raio de um círculo é perpendicular a uma corda
+que não é um diâmetro se, e somente se, ele a divide em dois
 segmentos congruentes.
 
 * solution.:
+
+    We can start by breaking the IFF proof into the 2 if->then that makes it.
+
+    1. Prove that a radius of a circle is perperdicular to a non diameter chord only if the former bisects the later.
+
+    2. Prove that a radius that bisects a non diameter chord must be perpendicular to it.
+
+    Working on the 1<sup>st<sup> one.:
+    
