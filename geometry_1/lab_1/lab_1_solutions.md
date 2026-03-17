@@ -118,4 +118,30 @@ segmentos congruentes.
 
     And now for the 2<sup>nd</sup> one.:
 
+    <!--
     (just looks like isoceles triangle always being perpendicular with the base, the 2 triangles defined by the intersection are the same, same sides, so same angles, with that the sum of the 2 angles must be 180)
+    -->
+
+    Same as the first, we start by defining any chord on a circle with center A, by picking 2 random points B and C.
+    As the postulate requires, we also define the point D, the midpoint of the segment BC, and with that we draw the radius that bisects BC by extending AD.
+
+    ![alt text](imgs/image-17.png)
+
+    Defining the lengh of the the segments AB, AC as r, as both are radius of the circle, and the segments CD and BD as x, as both are halves of BC, we can define both ADC and ADB triangles as congruents, as they have share sides of lenghts r, x and AD.
+    
+    ![alt text](imgs/image-18.png)
+
+    With that defined we can also extrapolate that the angles ADC and ADB are congruents, as they are part of 2 congruent triangles with matching oposite sides.
+
+    And as D is a point on the segment BC, the sum of both angles ADC and ADB is for sure 180&deg;, so both are right angles, and that makes AD perpendicular to BC no matter the positions of B and C outside of them forming a diameter.
+
+    ![alt text](imgs/image-19.png)
+
+---
+
+# Question 4
+
+4. Prove que se uma reta é tangente a um círculo, então ela é
+perpendicular ao raio que liga o centro ao ponto de tangência.
+
+* solution.:
