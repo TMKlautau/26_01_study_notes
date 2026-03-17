@@ -250,4 +250,18 @@ perpendicular ao raio que liga o centro ao ponto de tangência.
 
 * solution.:
 
-    
+    Having the height ha, the median ma and the angle bisector ba, all based on the vertice A, defined.:
+
+    ![alt text](imgs/image-36.png)
+
+    We can using ha, define the line where the side a is for sure part of.:
+
+    ![alt text](imgs/image-37.png)
+
+    And with the compass define M1 and M2, the possible median points on it.:
+
+    ![alt text](imgs/image-38.png)
+
+    And also define B1 and B2, the 2 possible points where the angle bisector ba intercepts the side a.:
+
+    ![alt text](imgs/image-39.png)
