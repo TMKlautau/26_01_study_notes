@@ -236,5 +236,5 @@ perpendicular ao raio que liga o centro ao ponto de tangência.
 
     ![alt text](imgs/image-34.png)
 
-    tbh, it's any circle with a point that is equidistant from the circle c and line r...
+    tbh, it's any circle with a center that is equidistant from the circle c and line r...
     
