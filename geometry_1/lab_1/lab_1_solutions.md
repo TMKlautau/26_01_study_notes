@@ -160,4 +160,76 @@ perpendicular ao raio que liga o centro ao ponto de tangência.
 
 * solution.:
 
+    Having a, b and ha defined.:
+    
+    ![alt text](imgs/image-20.png)
+
+    Define the perpendicular line to ha at H
+
+    ![alt text](imgs/image-21.png)
+
+    Mark with the compass the circle of lenght b, and define C1 and C2
+
+    ![alt text](imgs/image-22.png)
+
+    Focusing on C1 for now, draw the circle with lenght a, and mark B1 at the point it intercepts the perpendicular line to ha, the segment B1C1 is the side a of this triangle.
+
+    ![alt text](imgs/image-23.png)
+
+    ![alt text](imgs/image-24.png)
+
+    And we can just do the same for C2
+
+    ![alt text](imgs/image-25.png)
+
+---
+
+# Question 6
+
+6. Construir o triângulo ABC conhecendo os lados b e c e a altura ha.
+
+* solution.:
+
+    Having b, c and ha defined.:
+
+    ![alt text](imgs/image-26.png)
+
+    Same same start as question 5.:
+
+    ![alt text](imgs/image-27.png)
+
+    Although now both the sides share the vertice A, so with a compass we draw 2 circles, one of lenght b and the other of lenght c, and we mark the 4 possible points for vertices C and B as C1,C2,B1,B2
+
+    ![alt text](imgs/image-28.png)
+
+    And as the lenght of a was not given, the triangle can be acute, obtuse or right (if ha is the same lenght as 1 of the given sides), with that we can have up to 4 possible ones with the following permutations.:
+
+    A-B1-C1.:
+
+    ![alt text](imgs/image-29.png)
+
+    A-B1-C2.:
+
+    ![alt text](imgs/image-30.png)
+
+    A-B2-C1.:
+
+    ![alt text](imgs/image-31.png)
+
+    A-B2-C2.:
+
+    ![alt text](imgs/image-32.png)
+
+    And in the case where one of the sides is indeed the same size as ha, in this example the b side, there would be only 1 C as it would be a tangent point on a circle of b lenght.:
+
+    ![alt text](imgs/image-33.png)
+
+---
+
+# Question 7
+
+7. Dados em posição um círculo C uma reta r, construir um círculo de raio dado tangente a r é tangente exteriormente a C.
+
+* solution.:
+
     
