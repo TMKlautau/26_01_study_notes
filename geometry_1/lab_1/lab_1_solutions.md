@@ -232,4 +232,9 @@ perpendicular ao raio que liga o centro ao ponto de tangência.
 
 * solution.:
 
+    Given the line r (defined by the points A and B) and the circle c (defined by the point C and radius less than the distance between C and r, as if it wasn't it's impossible to build an externally tangent circle to c while it being tangent to r)
+
+    ![alt text](imgs/image-34.png)
+
+    tbh, it's any circle with a point that is equidistant from the circle c and line r...
     
