@@ -117,3 +117,5 @@ segmentos congruentes.
     ![alt text](imgs/image-16.png)
 
     And now for the 2<sup>nd</sup> one.:
+
+    (just looks like isoceles triangle always being perpendicular with the base, the 2 triangles defined by the intersection are the same, same sides, so same angles, with that the sum of the 2 angles must be 180)
