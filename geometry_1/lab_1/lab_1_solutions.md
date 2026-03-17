@@ -145,3 +145,19 @@ segmentos congruentes.
 perpendicular ao raio que liga o centro ao ponto de tangência.
 
 * solution.:
+
+    Tbh, I'm at a loss on how to prove this one with a rule and a compass...
+    The shortest distance of a point to a line is tangent to that line.
+    If there is a shortest distance than r from the center to the tangent line, it's not tangent, as it would intercept the circle on 2 points.
+    BUT FFS HOW DO YOU PROVE THAT WITH CIRCLES AND TRIANGLES?
+    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+---
+
+# Question 5
+
+5. Construir o triângulo ABC conhecendo os lados a e b (respectivamente opostos aos vértices A e B) e a altura ha.
+
+* solution.:
+
+    
