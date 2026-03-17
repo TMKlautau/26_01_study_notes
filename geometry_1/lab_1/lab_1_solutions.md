@@ -96,9 +96,24 @@ segmentos congruentes.
 
     We can start by breaking the IFF proof into the 2 if->then that makes it.
 
-    1. Prove that a radius of a circle is perperdicular to a non diameter chord only if the former bisects the later.
+    1. Prove that if a radius of a circle is perperdicular to a non diameter chord then the former bisects the later.
 
-    2. Prove that a radius that bisects a non diameter chord must be perpendicular to it.
+    2. Prove that if a radius bisects a non diameter chord then the former must be perpendicular to the later.
 
-    Working on the 1<sup>st<sup> one.:
+    Working on the 1<sup>st</sup> one.:
+
+    We first define any chord on a circle with center A, by picking 2 random points B and C.
+
+    ![alt text](imgs/image-14.png)
+
+    Tracing a perpendicular line to B-C that passes on A, and definining the point D where it intersects the circle, we have the perpendicular radius A-D.
     
+    (A-B-C-D is a kite tbh, the proof could just be that lol)
+
+    ![alt text](imgs/image-15.png)
+
+    By naming the point that the radius intersects with the chord as E, we can then build the following 2 right triangles, A-B-E and A-C-E, and due to the nature of A-B and A-C being radius, and such having lenght r, and A-E being a leg of both, we can define the lenght of C-E and B-E as $\sqrt{(AE)^2 + r^2}$, and as they are the same, AD bisects CB for sure, no matter the points B and C chosen (unless they are at the same line of A, bcs that would make it a diameter),
+
+    ![alt text](imgs/image-16.png)
+
+    And now for the 2<sup>nd</sup> one.:
