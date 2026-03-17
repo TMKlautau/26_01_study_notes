@@ -49,5 +49,47 @@ ao vértice A.
 
 * solution.:
 
-    pq sim
+    Having b, c and mc defined.:
+
+    ![alt text](imgs/image-6.png)
+
+    We can using only a compass and a unmarked ruler extend a segment of same lenght as ma on the same line.
+    Giving us the point A'.
+
+    ![alt text](imgs/image-7.png)
+
+    With that, we can with the compass draw 2 circles, one of lenght b with center at A and one with lenght c with center at A', the intersection of both we can name B1 and B2.
+    
+    ![alt text](imgs/image-8.png)
+
+    Doing the same, although now swapping the lenght of the circles at both centers, we can define again the intersection of those 2 circles as C1 and C2.
+
+    ![alt text](imgs/image-9.png)
+
+    Chosing a pair of those 4 newly set points so that the segment between the 2 intersects the segment A-A', we have a new point that we can call H.
+
+    ![alt text](imgs/image-10.png)
+
+    As we know, the segments A-B1 and A'-C1 being of lenght b, also with A-C1 and A'-B1 being of lenght c, we can for sure define the quadrilateral formed by those 4 points a paralelogram, as the 2 oposite sides are of equal lenght. 
+    ([proof here by Opposite Sides Converse Theorem, if it's needed lol](https://study.com/skill/learn/completing-proofs-of-theorems-involving-sides-of-a-parallelogram-explanation.html#:~:text=Opposite%20Sides%20Converse%20Theorem:%20The,the%20quadrilateral%20is%20a%20parallelogram.))
+
+    ![alt text](imgs/image-11.png)
+
+    That makes C1-B1 and A-A' diagonals of a paralalogram, and as such they always bisect each other, and with that, H is the midpoint of B1-C1, making it of lenght a.
+    As such, one of the 2 possible ABC triangle with the first defined position of A and ma is A-B1-C1.
+
+    ![alt text](imgs/image-12.png)
+
+    And the other one being A-B2-C2.
+
+    ![alt text](imgs/image-13.png)
+
 ---
+
+# Question 3
+
+3. Prove que um raio de um círculo  ́e perpendicular a uma corda
+que n ̃ao  ́e um diâmetro se, e somente se, ele a divide em dois
+segmentos congruentes.
+
+* solution.:
