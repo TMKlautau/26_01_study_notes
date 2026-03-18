@@ -152,6 +152,8 @@ perpendicular ao raio que liga o centro ao ponto de tangência.
     BUT FFS HOW DO YOU PROVE THAT WITH CIRCLES AND TRIANGLES?
     AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
+    Welp, I did find a [proof with circles and triangles by absurdity on yt](https://www.youtube.com/watch?v=IDrRIPLnSn8) but it just seems like a lot of work for something that it's "proved" just by definitons... Wlp, need to check if the definition one is valid on the tests.
+
 ---
 
 # Question 5
