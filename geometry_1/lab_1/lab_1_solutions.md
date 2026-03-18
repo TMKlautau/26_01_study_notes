@@ -250,11 +250,11 @@ perpendicular ao raio que liga o centro ao ponto de tangência.
 
 * solution.:
 
-    Having the height ha, the median ma and the angle bisector ba, all based on the vertice A, defined.:
+    Having the height ha, the median ma and the angle bisector ba, all based on the vertice A, defined as such.:
 
     ![alt text](imgs/image-36.png)
 
-    We can using ha, define the line where the side a is for sure part of.:
+    We can, using ha, define the line where the side a is for sure part of.:
 
     ![alt text](imgs/image-37.png)
 
