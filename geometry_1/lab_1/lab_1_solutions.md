@@ -266,9 +266,24 @@ perpendicular ao raio que liga o centro ao ponto de tangência.
 
     And also define B1 and B2, the 2 possible points where the angle bisector ba intercepts the side a.:
 
-
     ![alt text](imgs/image-39.png)
 
-    [Found it, prof gave some pointers to help](https://www.geogebra.org/calculator/pw29qbtz)
+    Using B1 and M1.:
 
-    will write the full solution here later, got a meeting now >.<
+    We can drawn the perpendicular bisector of the triangle that we need to drawn from M1.
+    And with that we have the point K, where the angle bisector on A intersects with it.
+
+    ![alt text](imgs/image-40.png)
+
+    As, both K and A are part of the circumscribed circle of the triangle ABC, we just need to find it's center, and we will have points B and C
+
+    That is easily done as it's center, that we will call O, resides at the intersection of  the perpendicular bisector of the segment AK with the perpendicular bisector of side a.
+    As AO is congruent with OK, being that the radius of the circumscribed circle.
+
+    ![alt text](imgs/image-41.png)
+
+    And with that we have the points B and C, and the triangle ABC.:
+
+    ![alt text](imgs/image-42.png)
+
+---
