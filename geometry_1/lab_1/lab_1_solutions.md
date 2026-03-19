@@ -266,6 +266,9 @@ perpendicular ao raio que liga o centro ao ponto de tangência.
 
     And also define B1 and B2, the 2 possible points where the angle bisector ba intercepts the side a.:
 
+
     ![alt text](imgs/image-39.png)
 
-    <iframe src="https://www.geogebra.org/calculator/pw29qbtz?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+    [Found it, prof gave some pointers to help](https://www.geogebra.org/calculator/pw29qbtz)
+
+    will write the full solution here later, got a meeting now >.<
