@@ -43,4 +43,8 @@ altura ha.
 
 - solution.:
 
-    
+    ![alt text](imgs/image-6.png)
+
+    ![alt text](imgs/image-7.png)
+
+    https://www.geogebra.org/calculator/hxddqvxd
