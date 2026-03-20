@@ -79,8 +79,16 @@ altura ha.
 
 # Question 4
 
-4. Construir o triângulo ABC conhecendo o lado a, a soma b + c dos outros dois lados e o ˆangulo ˆA.
+4. Construir o triângulo ABC conhecendo o lado a, a soma b + c dos outros dois lados e o ângulo ˆA.
 
 - solution.:
 
-    
+    Given the side a, the sum of b,c and the angle ^A.:
+
+    ![alt text](imgs/image-13.png)
+
+    Same same of question 3, using the complement of the angle, we get the circumcircle of BCY, that defined one of the circunferences where A is located.
+
+    ![alt text](imgs/image-14.png)
+
+    ![alt text](imgs/recording_last_step_question4.gif)
